@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+
+# Session WhatsApp — donne un acces complet au compte connecte.
+# Ne JAMAIS committer ni partager ce dossier.
+auth_info/
